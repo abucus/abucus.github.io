@@ -1,0 +1,12 @@
+# Site settings
+title: Merlin's Blog 
+email: tengmf@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+  Always proud to call myself a developer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://abucus.github.io" # the base hostname & protocol for your site
+twitter_username: MerlinTeng 
+github_username: abucus 
+
+# Build settings
+markdown: kramdown
